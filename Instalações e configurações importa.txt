@@ -1,0 +1,8 @@
+Instalações e configurações importantes – Curso de Git e GitHub
+
+Oque preciso instalar?
+
+-Navegador
+-Editor de Código
+-Git SCM -> Source Code Management
+-GitHub Desktop

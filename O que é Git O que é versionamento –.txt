@@ -1,0 +1,42 @@
+O que é Git? O que é versionamento? – Curso de Git e GitHub
+
+Dizendo de maneira muito simplificada:
+
+Git é um VCS -> Software de Controle de Versão.
+
+GitHub é uma Plataforma de Rede Social para Programadores.
+
+______________________________________________________________
+
+Para que serve o Git?
+
+Git é uma Ferramenta de Versionamento de Código, então o utilizamos para criar versões de um mesmo código.
+
+Versionamento -> Versões.
+
+As versões são muito importantes para nós programadores, pois sempre trabalhamos com muitas VERSÕES de uma mesma coisa.
+
+Versionamento em 1972:
+
+Quando era feito o Commit de um código, este código era enviado para o Repositório Central, e para isso acontecer você precisa de constante conexão com este servidor, podendo ter até mesmo varias pessoas commitando no mesmo Repositório. Então o servidor percebia a diferença entre os arquivos commitados e identificava uma versão mais antiga e a mais atual. Este tipo de VCS é chamado de VCS Centralizado / VCS Linear.
+
+Exemplo: Ca Software Change Manager (CCC), Source Code Control Manager (sccs), Panvalet, Concurrente Version System (CVS), Apache Subversion (SVN), ClearCase, Visual SourceSafe, Perforce.
+
+Modelo mais recente:
+
+Agora com este modelo quando um commit é feito ele não é salvo no servidor, mas sim em um repositório local na maquina de quem fez o commit, Mas como fica quando temos um trabalho em equipe? Quando temos a finalização deste projeto nós fazemos um Push para um repositório Remoto (Diferente de um Repositório Central) muito parecido com um Google Drive, em resumo quando o projeto é finalizado enviamos oque esta salvo localmente, para o Repositório Remoto, isso se chama Push.
+O nome deste modelo é o VCS Distribuído.
+
+Exemplo: Mercurial, Bazaar, Code Co-cop, GNU arch, Monotone, Fossil, BitKeeper, e Git.
+
+______________________________________________________________
+
+Vantagens de se usar um VCS:
+
+Controle de histórico.
+Trabalho em equipe.
+Ramificação -> dividindo o projeto para varias pessoas, podendo junta-las e criar nosso projeto principal.
+Segurança -> cada um mexe no que lhe for permitido.
+Organização.
+
+

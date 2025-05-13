@@ -1,0 +1,18 @@
+O que é GitHub? Pra que ele serve? – Curso de Git e GitHub
+
+O GitHub é um dos mais famosos Repositórios Remoto, que nos permite criar ou navegar em repositórios, conhecendo assim o open-source.
+
+Oque temos no GitHub:
+
+Repositórios ilimitados.
+Hospedagem de código fonte.
+Características de rede social.
+GitHub Pages integrado.
+Colaboração.
+Forks.
+______________________________________________________________
+
+O GitHub é o único repositório remoto que suporta Git?
+
+Não. temos por exemplo outros: GitLab, Bitbuckt, Phabricator, Gogs, Kallithea.
+
